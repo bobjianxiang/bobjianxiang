@@ -51,7 +51,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Burpsuite_logo.png?20240728115500" alt="burpsuite" width="50" height="40"/> 
   </a> 
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png?20130415230312" alt="metasploit" width="70" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png?20130415230312" alt="metasploit" width="100" height="40"/> 
   </a> 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/900px-Wireshark_icon_new.png?20230509085415" alt="wireshark" width="40" height="40"/> 
