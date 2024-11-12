@@ -48,7 +48,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Burp_Suite_Logo.png" alt="burpsuite" width="40" height="40"/> 
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/5/53/Burp_Suite_Logo.png](https://w7.pngwing.com/pngs/276/718/png-transparent-burp-suite-alt-macos-bigsur-icon.png)" alt="burpsuite" width="40" height="40"/> 
   </a> 
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Metasploit_logo.png" alt="metasploit" width="40" height="40"/> 
