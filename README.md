@@ -50,13 +50,12 @@
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Burpsuite_logo.png?20240728115500" alt="burpsuite" width="40" height="40"/> 
   </a> 
-  </a> 
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Metasploit_logo.png?20130415230312" alt="metasploit" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png?20130415230312" alt="metasploit" width="40" height="40"/> 
   </a> 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> 
-  </a>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/900px-Wireshark_icon_new.png?20230509085415" alt="wireshark" width="40" height="40"/> 
+  </a> 
   <a href="https://github.com/carlospolop/PEASS-ng" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="linpeas" width="40" height="40"/> 
   </a> 
@@ -64,6 +63,7 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="winpeas" width="40" height="40"/> 
   </a> 
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobbbtan&show_icons=true&locale=en&layout=compact" alt="bobbbtan" /></p>
