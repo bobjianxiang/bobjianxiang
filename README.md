@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Bob Tan Jian Xiang</h1>
-<h3 align="center">A passionate IT student from Subang Jaya, Selangor</h3>
+<h3 align="center">A passionate Penetration Tester from Subang Jaya, Selangor</h3>
 <img align = "right" alt= "Coding" width = "400" src = "https://gifdb.com/images/thumbnail/minion-on-a-computer-typing-an-update-ayy35i07gfxhyftv.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbbtan&label=Profile%20views&color=0e75b6&style=flat" alt="bobbbtan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Google Cybersecurity Certificate**
+- 🌱 I’m currently learning **PJPT from TCM Security**
 
-- 💬 Ask me about **Java, Html, Css, Javascript, C++, MySQL**
+- 💬 Ask me about **Domain Enumeration, Internal Penetration Test, Active Directory Penetration Test**
 
 - 📫 How to reach me **bob.jianxiang@gmail.com**
 
