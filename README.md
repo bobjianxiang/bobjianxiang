@@ -48,14 +48,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/portswigger/portswigger-icon.svg" alt="burpsuite" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Burp_Suite_Logo.png" alt="burpsuite" width="40" height="40"/> 
   </a> 
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" alt="metasploit" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Metasploit_logo.png" alt="metasploit" width="40" height="40"/> 
   </a> 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="wireshark" width="40" height="40"/> 
-  </a> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_icon.svg" alt="wireshark" width="40" height="40"/> 
+  </a>  
   <a href="https://github.com/carlospolop/PEASS-ng" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="linpeas" width="40" height="40"/> 
   </a> 
